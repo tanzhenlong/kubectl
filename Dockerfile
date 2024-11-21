@@ -1,1 +1,1 @@
-FROM rancher/kubectl
+FROM  bitnami/kubectl:latest
